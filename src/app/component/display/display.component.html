@@ -1,0 +1,8 @@
+
+   <h1>Choose an option</h1>
+   <app-nevbar *ngFor="let page of pages" [page]= "page.page" [name]="page.name" [firstname]  = "firstname" [surname] = "surname" [gender]= "gender" [age]= "age"
+    [bookingdate]= "bookingdate" [enddate]= "enddate" [roomtype]= "roomtype"></app-nevbar>
+ 
+  
+  <router-outlet></router-outlet>
+  

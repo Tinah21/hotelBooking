@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    font-size: 120%;
+    background-color: lightgrey;
+    margin-top:55px;
+    margin-bottom: 55px;
+    width: 300px;
+    border: 25px solid red;
+    padding: 25px;
+    margin-left: 730px;
+}

@@ -1,0 +1,12 @@
+table,tr,td{
+    border: 1px solid red;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    font-size: 110%;
+    
+}
+table{
+    margin-bottom: 1%;
+    margin-bottom: 5%;
+}

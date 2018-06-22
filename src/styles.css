@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    font-size: 350%;
+    color: blueviolet;
+    background-color: aquamarine;
+    text-align: center;
+    text-shadow: 2px 2px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+  
+}
+footer{
+   margin-top: 1%;
+    text-align: center;
+    background-color: aquamarine;
+}
+nav{
+    text-align: center;
+   
+}
+a{
+    margin-right: 2%;
+    color:teal;
+}
